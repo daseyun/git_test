@@ -5,3 +5,7 @@ function fn() {
 function cn() {
   return 2;
 }
+
+function dn() {
+  return;
+}
